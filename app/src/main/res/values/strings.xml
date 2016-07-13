@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">app</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">##第三方插件##   - 滑动页面指示器   ##性能优化##   - listview - RecycleView   - image内存溢出问题。   ##服务器## - ThinkPHP,Tp-shop - http://www.tp-shop.cn/Index/index/download.html</string>
+
+</resources>
